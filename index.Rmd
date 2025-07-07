@@ -26,7 +26,8 @@ output:
 <div class="row" style="padding-top: 30px;">
 <div class="col-sm-6">
 
-# **Phonetic and Phonological Analysis--Sound Change**
+# **Phonetic and Phonological Analysis**
+### *Sound Change*
 ### Fall 2025
 \
 Wednesdays, 11:30am\
@@ -47,6 +48,6 @@ This site will have links to all of the required readings and on occasion some l
 </div>
 <div class="col-sm-6">
 
-![](images/facemodel.jpg)
+![](images/chain_shift.jpg)
 </a>
 </div>
