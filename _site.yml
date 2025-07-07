@@ -1,6 +1,6 @@
 name: "LAL6120"
 navbar:
-  title: "LAL6120:Phonetic and Phonological Analysis--Sound Change"
+  title: "LAL6120"
   left:
     - text: "Home"
       href: index.html
