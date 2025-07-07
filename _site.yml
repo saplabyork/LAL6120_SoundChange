@@ -1,0 +1,13 @@
+name: "LAL6120"
+navbar:
+  title: "LAL6120:Phonetic and Phonological Analysis--Sound Change"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Outline/Schedule"
+      href: LAL6120syllabus.html
+    - text: "Lectures"
+      menu:
+        - text: "Lecture 1"
+          href: lecture1.html
+output_dir: "docs"
