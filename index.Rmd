@@ -34,7 +34,7 @@ Wednesdays, 11:30am\
 Ross Building, Rm. S803\
 Instructor: [Chandan Narayan](https://ch-narayan.github.io)\
 Contact: [chandann@yorku.ca](mailto:chandann@yorku.ca)\
-[Course outline and schedule](LING6120syllabus.html)
+[Outline](docs/Outline.html)
 
 ### About
 
