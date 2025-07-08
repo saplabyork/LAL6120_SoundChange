@@ -8,6 +8,6 @@ navbar:
       href: LAL6120syllabus.html
     - text: "Lectures"
       menu:
-        - text: "Lecture 1"
-          href: lecture1.html
+        - text: "Readings"
+          href: readings.html
 output_dir: "docs"

@@ -1,0 +1,38 @@
+---
+title: "Readings"
+output:
+  html_document:
+    includes:
+      in_header: "favicon.html"
+    theme: paper
+    toc: true
+    toc_float: true
+    collapsed: false
+    number_sections: false
+    toc_depth: 2
+    #code_folding: hide
+---
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(message=FALSE,warning=FALSE, cache=TRUE)
+options(repos = list(CRAN="http://cran.rstudio.com/"))
+```
+
+Here is a list of readings for the course. In all cases a pdf is linked, or in some cases, a link to the e-book on the York Library website.
+
+***
+
+# Week 1: Background
+
+-*[What is sound change?](Readings/9781474461740.pdf)* (Ch.1 in Joseph Salmon's **Sound Change** book)
+
+# Week 2: Neogrammarians and the Regularity of sound change
+
+-*[The comparative method](Readings/handbook_hist_ling.pdf#page=183)* (Ch.1 by Rankin in HHL)
+
+-*[The phonological basis of sound change](Readings/handbook_hist_ling.pdf#page=332)* (Ch.6 by [Kiparsky](https://web.stanford.edu/~kiparsky/) in HHL)
