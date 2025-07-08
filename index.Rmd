@@ -1,5 +1,5 @@
 ---
-title: "LING 6120"
+title: "LAL 6120"
 output: 
   html_document:
     includes:
