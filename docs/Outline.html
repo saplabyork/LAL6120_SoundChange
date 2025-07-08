@@ -1,0 +1,761 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>LAL6120-Outline/Schedule</title>
+
+<script src="site_libs/header-attrs-2.23/header-attrs.js"></script>
+<script src="site_libs/jquery-3.6.0/jquery-3.6.0.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/paper.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<style>h1 {font-size: 34px;}
+       h1.title {font-size: 38px;}
+       h2 {font-size: 30px;}
+       h3 {font-size: 24px;}
+       h4 {font-size: 18px;}
+       h5 {font-size: 16px;}
+       h6 {font-size: 12px;}
+       code {color: inherit; background-color: rgba(0, 0, 0, 0.04);}
+       pre:not([class]) { background-color: white }</style>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link rel="shortcut icon" href="images/logo.jpeg">
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+
+
+
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+details > summary > p:only-child {
+  display: inline;
+}
+pre code {
+  padding: 0;
+}
+</style>
+
+
+<style type="text/css">
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #adb5bd;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script type="text/javascript">
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark the anchor link active (and if it's in a dropdown, also mark that active)
+  var dropdown = menuAnchor.closest('li.dropdown');
+  if (window.bootstrap) { // Bootstrap 4+
+    menuAnchor.addClass('active');
+    dropdown.find('> .dropdown-toggle').addClass('active');
+  } else { // Bootstrap 3
+    menuAnchor.parent().addClass('active');
+    dropdown.addClass('active');
+  }
+
+  // Navbar adjustments
+  var navHeight = $(".navbar").first().height() + 15;
+  var style = document.createElement('style');
+  var pt = "padding-top: " + navHeight + "px; ";
+  var mt = "margin-top: -" + navHeight + "px; ";
+  var css = "";
+  // offset scroll position for anchor links (for fixed navbar)
+  for (var i = 1; i <= 6; i++) {
+    css += ".section h" + i + "{ " + pt + mt + "}\n";
+  }
+  style.innerHTML = "body {" + pt + "padding-bottom: 40px; }\n" + css;
+  document.head.appendChild(style);
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before, .tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "\e259";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "\e258";
+  font-family: 'Glyphicons Halflings';
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-bs-toggle="collapse" data-target="#navbar" data-bs-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">LAL6120</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">Home</a>
+</li>
+<li>
+  <a href="Outline.html">Outline/Schedule</a>
+</li>
+<li>
+  <a href="readings.html">Readings</a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div id="header">
+
+
+
+<h1 class="title toc-ignore">LAL6120-Outline/Schedule</h1>
+
+</div>
+
+
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+<div id="lal-6120-phonological-and-phonetic-analysis"
+class="section level1">
+<h1><strong>LAL 6120: Phonological and Phonetic Analysis</strong><br />
+</h1>
+</div>
+<div id="sound-change" class="section level1">
+<h1><em>Sound Change</em><br />
+</h1>
+<p>Instructor: <a href="https://ch-narayan.github.io">Chandan
+Narayan</a><br />
+Course time: Wednesdays 11:30-3:30pm, Ross S803<br />
+A print version of this syllabus is available here: <a
+href="LING2200syllabus.pdf">LING2200syllabus</a></p>
+<div id="outlinesyllabus" class="section level2">
+<h2>Outline/Syllabus</h2>
+<hr />
+</div>
+<div id="seminar-description" class="section level2">
+<h2>Seminar description:</h2>
+<p>This graduate seminar will be a rigourous introduction to the topic
+of sound change. We will survey the intellectual history of formal
+approaches in the sound change literature. The course presupposes your
+having some background exposure to basic principles in phonetics
+(articulatory and acoustic) and phonology (nothing overly theoretical).
+We will focus on acoustics and speech perception explanations in sound
+change, but also consider sociological and extra-linguistic forces
+affecting change. While much of the sound change literature (especially
+pre-1960s) sought to describe the <em>what</em> of sound change, I want
+our focus to be on the <em>why</em> (and to some extent <em>how</em>) of
+sound change.</p>
+<p>Students will be required to present readings and lead discussion.
+Final projects will address some problem in sound change of interest to
+the student.</p>
+</div>
+<div id="seminar-prerequisites" class="section level2">
+<h2>Seminar prerequisites:</h2>
+<p>This seminar is for first year graduate students in LAL. To that
+extent, the readings and discussion (and ultimately the work you
+produce) will reflect your background in Lingusitics, and phonetics and
+phonology in particular. I request that you contact me immediately if
+you do not have much background (i.e., intro courses in P&amp;P), in
+which case we’ll have some work to do outside of class.</p>
+</div>
+<div id="learning-outcomes" class="section level2">
+<h2>Learning outcomes:</h2>
+<ol style="list-style-type: decimal">
+<li>Demonstrate knowledge of theoretical approaches to sound change</li>
+<li>Demonstrate the ability to sketch out a theoretically motivated
+approach to your own problem in sound change</li>
+<li>Demonstrate the ability to write a</li>
+<li>Demonstrate elementary knowledge of speech-language development and
+disorders</li>
+</ol>
+</div>
+<div id="evaluation" class="section level2">
+<h2>Evaluation</h2>
+<p>Your grade in the course will be determined by your performance on
+the following:</p>
+<ul>
+<li>30% Assignments (2 x 15% each)</li>
+<li>15% Quizzes (Quiz 1–5%; Quiz 2–10%)</li>
+<li>25% Midterm Test</li>
+<li>25% Final Exam</li>
+<li>5% Class participation</li>
+</ul>
+</div>
+<div id="course-text-and-readings" class="section level2">
+<h2>Course text and readings</h2>
+<p>Although you are responsible for readings from the following
+textbook:</p>
+<blockquote>
+<p>Ferrand, C. (2018) Speech Science: An Integrated Approach to Theory
+and Clinical Practice. (Pearson)</p>
+</blockquote>
+<p>my goal is to make as much information available via <a
+href="%22docs/index.html%22">lecture notes</a> so as to minimize the use
+of the textbook. The book will be on reserve at Scott Library (in the
+Ross Building) and can be purchased. If you find an earlier edition of
+the book it’s fine. The information hasn’t changed, but the chapters
+might be different. Lastly, the lecture notes will be quite
+comprehensive. If I do not discuss a concept in lecture, it is likely
+that it won’t appear in a quiz or exam. Some readings will come from
+outside the textbook as well. These additional readings will be made
+available via pdf on the course website.</p>
+</div>
+<div id="eclass" class="section level2">
+<h2>eClass</h2>
+<p>All lectures (videos), lecture slides, assignments, discussion
+boards, online Quizzes and Tests, and assignment submission will happen
+on the <a href="http://eclass.yorku.ca">eClass</a> site for the course.
+Lecture slides will be posted the evening after the lecture happens.</p>
+<div id="lecture-notes" class="section level3">
+<h3>Lecture notes</h3>
+<p>Every lecture will be accompanied by <a
+href="%22docs/index.html%22">notes</a>. These notes go into a bit more
+detail than offered by the slides. The notes will also provide you with
+animations, videos, demos, etc., which can bring the materials to life.
+The notes will also have quiz modules (ungraded) which allow you to test
+your knowledge.</p>
+</div>
+<div id="class-structure" class="section level3">
+<h3>Class structure</h3>
+<p>We will go over the day’s lecture and discuss issues and problems.
+For the most part, the topics discussed each week will follow closely
+the order of material presented in the textbook, with additional
+readings discussed in conjunction with the theme of the textbook
+chapter. It is critical that you do the readings as they will surely
+illuminate what is discussed in the lecture. Additionally, I ask that
+you forward me any interesting news stories related to language which
+you might come across. It is always nice to keep lectures and class
+content current with the zeitgeist.</p>
+</div>
+<div id="email-policy" class="section level3">
+<h3>Email policy</h3>
+<p>If you cannot attend the scheduled office hour, contact me to arrange
+another time. I will do my best to answer your phone and email messages
+promptly. I do not, generally, answer email on the weekend. Please email
+me from your yorku.ca account and put ‘LING 2200’ in the subject line.
+Emails sent from non-York accounts will be ignored. Please sign your
+emails; I will not reply to anonymous messages. My response to your
+email may be brief and may not come within 48 hours. <strong>Please be
+patient</strong>.</p>
+</div>
+<div id="assignments" class="section level3">
+<h3>Assignments</h3>
+<p>The course will have three homework assignments, which should be
+submitted on the date it is due via the eClass submission module. The
+assignments are designed to allow you to become familiar with core
+concepts, problems, and research methods/approaches (i.e., Praat) that
+are critically important in speech science.</p>
+</div>
+<div id="quizzes" class="section level3">
+<h3>Quizzes</h3>
+<p>There will be two quizzes over the course of the term. Quizzes will
+during the first 15 minutes of the class period. Be on time! Each quiz
+will cover material from the previous two weeks of class. <strong>There
+will be no make-up quizzes</strong>.</p>
+</div>
+</div>
+<div id="tests" class="section level2">
+<h2>Tests</h2>
+<p>There will be two tests in this course, one at Midterm and one Final
+Exam. The tests will be mostly multiple-choice with some possible short
+answer questions testing your knowledge of both book and lecture
+content. You are responsible for reading all assigned material (book
+chapters and additional readings) as well as anything that may be
+presented in lectures.</p>
+<div id="missed-midterm" class="section level3">
+<h3>Missed Midterm</h3>
+<p>If you provide appropriate documentation for missing the midterm you
+will have until the following Tuesday to take a make-up. Please
+coordinate the make-up with me. A midterm missed without adequate
+documentation will be assigned a mark of zero.</p>
+</div>
+</div>
+<div id="grading" class="section level2">
+<h2>Grading</h2>
+<p>York University uses a grading system detailed <a
+href="http://calendars.registrar.yorku.ca/2012-2013/academic/grades/">here</a>.
+Please familiarize yourself with it.</p>
+</div>
+<div id="academic-honesty-and-integrity" class="section level2">
+<h2>Academic Honesty and Integrity</h2>
+<p>York students are required to maintain high standards of academic
+integrity and are subject to the Senate Policy on Academic Honesty.
+Please review the documents available <a
+href="https://www.yorku.ca/secretariat/policies/policies/academic-honesty-senate-policy-on/">here</a>.
+Academic offences are treated very seriously, and the disciplinary
+procedures are described there as well. Please consult the code if you
+have any question about the nature of academic offences and their
+penalties.</p>
+</div>
+<div id="course-withdrawal-w-option" class="section level2">
+<h2>Course Withdrawal (W) option</h2>
+<p>In the period between the last day to drop a course without receiving
+a grade and the final day of classes in a term, undergraduate students
+are permitted to withdraw from a course with the condition that the
+course enrolment remains on a student’s transcript, denoted by a “W” in
+the University’s records and on the student’s transcript as the grade
+decision. No credit value will be retained for the course and no value
+will be included in the calculation of a student’s grade point average
+(GPA). Please go <a
+href="https://myacademicrecord.students.yorku.ca/course-withdrawal">here</a>
+for details.</p>
+</div>
+<div id="schedule" class="section level2">
+<h2>Schedule</h2>
+<table style="width:100%;">
+<colgroup>
+<col width="7%" />
+<col width="7%" />
+<col width="11%" />
+<col width="45%" />
+<col width="11%" />
+<col width="17%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Week</th>
+<th>Date</th>
+<th>Lecture</th>
+<th>Topic</th>
+<th>Reading</th>
+<th>Tests/Due</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>0</td>
+<td>9/05</td>
+<td>1</td>
+<td>Intro/Nature of Sound</td>
+<td>Ch.1</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>1</td>
+<td>9/10</td>
+<td>1</td>
+<td>Nature of Sound</td>
+<td>Ch.1</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>9/12</td>
+<td>2</td>
+<td>Pure and complex sounds</td>
+<td>Ch.1</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>2</td>
+<td>9/17</td>
+<td>3</td>
+<td>Attributes of sound</td>
+<td>Ch.1</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>9/19</td>
+<td>4</td>
+<td>Praat basics (Lab 1)</td>
+<td>Ch.1</td>
+<td>Quiz 1</td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td>Dadeleh Bldg 2027+2032</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>3</td>
+<td>9/24</td>
+<td>5</td>
+<td>Acoustic resonance</td>
+<td>Ch.2</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>9/26</td>
+<td>6</td>
+<td>Respiration</td>
+<td>Ch.3</td>
+<td><a href="LING2200_Assignment1.pdf">Assignment 1</a></td>
+</tr>
+<tr class="odd">
+<td>4</td>
+<td>10/01</td>
+<td>7</td>
+<td>Laryngeal bones and muscles</td>
+<td>Ch.4</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>10/03</td>
+<td>8</td>
+<td>Phonation</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>5</td>
+<td>10/08</td>
+<td>8</td>
+<td>Phonation disorders</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>10/10</td>
+<td></td>
+<td>MT REVIEW</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>10/15,17</td>
+<td></td>
+<td>No class-Reading week</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td>6</td>
+<td>10/22</td>
+<td></td>
+<td>Midterm</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>10/24</td>
+<td></td>
+<td>No Class</td>
+<td>Chs.6,7</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>7</td>
+<td>10/29</td>
+<td>9,10</td>
+<td>Audition</td>
+<td>Chs.7,8</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>10/31</td>
+<td>10</td>
+<td>Audition: Ear anatomy</td>
+<td>Ch.8</td>
+<td></td>
+</tr>
+<tr class="even">
+<td>8</td>
+<td>11/05</td>
+<td>11</td>
+<td>General auditory perception</td>
+<td>Ch.8</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td></td>
+<td>11/07</td>
+<td>12</td>
+<td>Spectrogram lab</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td></td>
+<td></td>
+<td>Dadeleh Bldg 2027+2032</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>9</td>
+<td>11/12</td>
+<td>13</td>
+<td>Consonant perception</td>
+<td>Ch.8,6</td>
+<td>Quiz 2</td>
+</tr>
+<tr class="even">
+<td></td>
+<td>11/14</td>
+<td>14</td>
+<td>Hearing loss, speech perception</td>
+<td>Ch.6</td>
+<td>Assignment 2</td>
+</tr>
+<tr class="odd">
+<td>10</td>
+<td>11/19</td>
+<td>15</td>
+<td>Motor control, production</td>
+<td>Ch.9</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>11/21</td>
+<td>16</td>
+<td>Speech perception theories</td>
+<td>Ch.12</td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>11</td>
+<td>11/26</td>
+<td>17</td>
+<td>Building words</td>
+<td>Ch.12</td>
+<td></td>
+</tr>
+<tr class="even">
+<td></td>
+<td>11/28</td>
+<td></td>
+<td>Review</td>
+<td></td>
+<td></td>
+</tr>
+<tr class="odd">
+<td>12</td>
+<td>12/3</td>
+<td></td>
+<td>Final Exam</td>
+<td></td>
+<td></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open');
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

@@ -5,9 +5,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Outline/Schedule"
-      href: LAL6120syllabus.html
-    - text: "Lectures"
-      menu:
-        - text: "Readings"
-          href: readings.html
+      href: Outline.html
+    - text: "Readings"
+      href: readings.html
 output_dir: "docs"

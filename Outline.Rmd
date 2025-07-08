@@ -1,0 +1,138 @@
+---
+title: "LAL6120-Outline/Schedule"
+output: 
+  html_document:
+    includes:
+      in_header: "favicon.html"
+    theme: paper
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+
+# **LAL 6120: Phonological and Phonetic Analysis**\
+# *Sound Change*\
+Instructor: [Chandan Narayan](https://ch-narayan.github.io)\
+Course time: Wednesdays 11:30-3:30pm, Ross S803\
+A print version of this syllabus is available here: [LING2200syllabus](LING2200syllabus.pdf)
+
+## Outline/Syllabus
+
+***
+
+## Seminar description:
+This graduate seminar will be a rigourous introduction to the topic of sound change. We will survey the intellectual history of formal approaches in the sound change literature. The course presupposes your having some background exposure to basic principles in phonetics (articulatory and acoustic) and phonology (nothing overly theoretical). We will focus on acoustics and speech perception explanations in sound change, but also consider sociological and extra-linguistic forces affecting change. While much of the sound change literature (especially pre-1960s) sought to describe the *what* of sound change, I want our focus to be on the *why* (and to some extent *how*) of sound change.
+
+Students will be required to present readings and lead discussion. Final projects will address some problem in sound change of interest to the student.
+
+## Seminar prerequisites:
+This seminar is for first year graduate students in LAL. To that extent, the readings and discussion (and ultimately the work you produce) will reflect your background in Lingusitics, and phonetics and phonology in particular. I request that you contact me immediately if you do not have much background (i.e., intro courses in P&P), in which case we'll have some work to do outside of class. 
+
+## Learning outcomes:
+
+1. Demonstrate knowledge of theoretical approaches to sound change
+2. Demonstrate the ability to sketch out a theoretically motivated approach to your own problem in sound change
+3. Demonstrate the ability to write a 
+4. Demonstrate elementary knowledge of speech-language development and disorders
+
+## Evaluation
+
+Your grade in the course will be determined by your performance on the following:
+
+* 30% Assignments (2 x 15% each)
+* 15% Quizzes (Quiz 1--5%; Quiz 2--10%)
+* 25% Midterm Test
+* 25% Final Exam
+* 5% Class participation
+
+## Course text and readings
+Although you are responsible for readings from the following textbook:
+
+> Ferrand, C. (2018) Speech Science: An Integrated Approach to Theory and Clinical Practice. (Pearson)
+
+my goal is to make as much information available via [lecture notes]("docs/index.html") so as to minimize the use of the textbook. The book will be on reserve at Scott Library (in the Ross Building) and can be purchased. If you find an earlier edition of the book it's fine. The information hasn't changed, but the chapters might be different. Lastly, the lecture notes will be quite comprehensive. If I do not discuss a concept in lecture, it is likely that it won’t appear in a quiz or exam. Some readings will come from outside the textbook as well. These additional readings will be made available via pdf on the course website.
+
+## eClass
+All lectures (videos), lecture slides, assignments, discussion boards, online Quizzes and Tests, and assignment submission will happen on the [eClass](http://eclass.yorku.ca) site for the course. Lecture slides will be posted the evening after the lecture happens.
+
+### Lecture notes
+Every lecture will be accompanied by [notes]("docs/index.html"). These notes go into a bit more detail than offered by the slides. The notes will also provide you with animations, videos, demos, etc., which can bring the materials to life. The notes will also have quiz modules (ungraded) which allow you to test your knowledge.
+
+### Class structure
+We will go over the day's lecture and discuss issues and problems. For the most part, the topics discussed each week will follow closely the order of material presented in the textbook, with additional readings discussed in conjunction with the theme of the textbook chapter. It is critical that you do the readings as they will surely illuminate what is discussed in the lecture. Additionally, I ask that you forward me any interesting news stories related to language which you might come across. It is always nice to keep lectures and class content current with the zeitgeist.
+
+### Email policy
+If you cannot attend the scheduled office hour, contact me to arrange another time. I will do my best to answer your phone and email messages promptly. I do not, generally, answer email on the weekend. Please email me from your yorku.ca account and put ‘LING 2200’ in the subject line. Emails sent from non-York accounts will be ignored. Please sign your emails; I will not reply to anonymous messages. My response to your email may be brief and may not come within 48 hours. **Please be patient**.
+
+### Assignments
+The course will have three homework assignments, which should be submitted on the date it is due via the eClass submission module. The assignments are designed to allow you to become familiar with core concepts, problems, and research methods/approaches (i.e., Praat) that are critically important in speech science.
+
+### Quizzes
+There will be two quizzes over the course of the term. Quizzes will during the first 15 minutes of the class period. Be on time! Each quiz will cover material from the previous two weeks of class. **There will be no make-up quizzes**.
+
+## Tests
+There will be two tests in this course, one at Midterm and one Final Exam. The tests will be mostly multiple-choice with some possible short answer questions testing your knowledge of both book and lecture content. You are responsible for reading all assigned material (book chapters and additional readings) as well as anything that may be presented in lectures.
+
+### Missed Midterm
+If you provide appropriate documentation for missing the midterm you will have until the following Tuesday to take a make-up. Please coordinate the make-up with me. A midterm missed without adequate documentation will be assigned a mark of zero.
+
+## Grading
+York University uses a grading system detailed [here](http://calendars.registrar.yorku.ca/2012-2013/academic/grades/). Please familiarize yourself with it. 
+
+## Academic Honesty and Integrity
+York students are required to maintain high standards of academic integrity and are subject to the Senate Policy on Academic Honesty. Please review the documents available [here](https://www.yorku.ca/secretariat/policies/policies/academic-honesty-senate-policy-on/). Academic offences are treated very seriously, and the disciplinary procedures are described there as well. Please consult the code if you have any question about the nature of academic offences and their penalties.
+
+## Course Withdrawal (W) option
+In the period between the last day to drop a course without receiving a grade and the final day of classes in a term, undergraduate students are permitted to withdraw from a course with the condition that the course enrolment remains on a student’s transcript, denoted by a “W” in the University’s records and on the student’s transcript as the grade decision. No credit value will be retained for the course and no value will be included in the calculation of a student's grade point average (GPA). Please go [here](https://myacademicrecord.students.yorku.ca/course-withdrawal) for details.
+
+## Schedule
+
+| Week | Date | Lecture | Topic                               | Reading | Tests/Due    |
+|------|------|---------|-------------------------------------|---------|--------------|
+| 0    | 9/05 | 1       | Intro/Nature of Sound               | Ch.1    |              |
+| 1    | 9/10 | 1       | Nature of Sound                     | Ch.1    |              |
+|      | 9/12 | 2       | Pure and complex sounds             | Ch.1    |              |
+| 2    | 9/17 | 3       | Attributes of sound                 | Ch.1    |              |
+|      | 9/19 | 4       | Praat basics (Lab 1)                | Ch.1    |  Quiz 1      |
+|      |      |         | Dadeleh Bldg 2027+2032              |         |              |
+| 3    | 9/24 | 5       | Acoustic resonance                  | Ch.2    |              |
+|      | 9/26 | 6       | Respiration                         | Ch.3    | [Assignment 1](LING2200_Assignment1.pdf) |
+| 4    | 10/01| 7       | Laryngeal bones and muscles         | Ch.4    |              |
+|      | 10/03| 8       | Phonation                           |         |              |
+|5     | 10/08| 8       | Phonation disorders                 |         |              |
+|      | 10/10|         | MT REVIEW                           |         |              |
+|      | 10/15,17|      | No class-Reading week               |         |              |
+| 6    | 10/22|         | Midterm                             |         |              |
+|      | 10/24|         | No Class                            | Chs.6,7 |              |
+| 7    | 10/29| 9,10    | Audition                            | Chs.7,8 |              |
+|      | 10/31| 10      | Audition: Ear anatomy               | Ch.8    |              |
+| 8    | 11/05| 11      | General auditory perception         | Ch.8    |              |
+|      | 11/07| 12      | Spectrogram lab                     |         |              |
+|      |      |         | Dadeleh Bldg 2027+2032              |         |              |
+| 9    | 11/12| 13      | Consonant perception                | Ch.8,6  |   Quiz 2     |
+|      | 11/14| 14      | Hearing loss, speech perception     | Ch.6    | Assignment 2 |
+| 10   | 11/19| 15      | Motor control, production           | Ch.9    |              |
+|      | 11/21| 16      | Speech perception theories          | Ch.12   |              |
+| 11   | 11/26| 17      | Building words                      | Ch.12   |              |
+|      | 11/28|         | Review                              |         |              |
+| 12   | 12/3 |         | Final Exam                          |         |              |
+
+
