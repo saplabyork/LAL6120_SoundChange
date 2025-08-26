@@ -50,58 +50,29 @@ This seminar is for first year graduate students in LAL. To that extent, the rea
 
 1. Demonstrate knowledge of theoretical approaches to sound change
 2. Demonstrate the ability to sketch out a theoretically motivated approach to your own problem in sound change
-3. Demonstrate the ability to write a 
-4. Demonstrate elementary knowledge of speech-language development and disorders
+3. Demonstrate ability to work within a team on a speech perception and acoustics project
 
 ## Evaluation
 
 Your grade in the course will be determined by your performance on the following:
 
-* 30% Assignments (2 x 15% each)
-* 15% Quizzes (Quiz 1--5%; Quiz 2--10%)
-* 25% Midterm Test
-* 25% Final Exam
-* 5% Class participation
+* 50% in class participation (including presenting readings)
+* 50% contribution to collaborative class project
 
 ## Course text and readings
-Although you are responsible for readings from the following textbook:
-
-> Ferrand, C. (2018) Speech Science: An Integrated Approach to Theory and Clinical Practice. (Pearson)
-
-my goal is to make as much information available via [lecture notes]("docs/index.html") so as to minimize the use of the textbook. The book will be on reserve at Scott Library (in the Ross Building) and can be purchased. If you find an earlier edition of the book it's fine. The information hasn't changed, but the chapters might be different. Lastly, the lecture notes will be quite comprehensive. If I do not discuss a concept in lecture, it is likely that it won’t appear in a quiz or exam. Some readings will come from outside the textbook as well. These additional readings will be made available via pdf on the course website.
-
-## eClass
-All lectures (videos), lecture slides, assignments, discussion boards, online Quizzes and Tests, and assignment submission will happen on the [eClass](http://eclass.yorku.ca) site for the course. Lecture slides will be posted the evening after the lecture happens.
-
-### Lecture notes
-Every lecture will be accompanied by [notes]("docs/index.html"). These notes go into a bit more detail than offered by the slides. The notes will also provide you with animations, videos, demos, etc., which can bring the materials to life. The notes will also have quiz modules (ungraded) which allow you to test your knowledge.
+The readings will be provided in pdf form under the [Readings](Readings.html) tab. In some cases we may have to read texts where there isn't an electronic copy available. Library links will be provided in those cases.
 
 ### Class structure
-We will go over the day's lecture and discuss issues and problems. For the most part, the topics discussed each week will follow closely the order of material presented in the textbook, with additional readings discussed in conjunction with the theme of the textbook chapter. It is critical that you do the readings as they will surely illuminate what is discussed in the lecture. Additionally, I ask that you forward me any interesting news stories related to language which you might come across. It is always nice to keep lectures and class content current with the zeitgeist.
+We will go over the week's papers and outline strategies for our [collaborative class project](Proto-Greek.html).
 
 ### Email policy
-If you cannot attend the scheduled office hour, contact me to arrange another time. I will do my best to answer your phone and email messages promptly. I do not, generally, answer email on the weekend. Please email me from your yorku.ca account and put ‘LING 2200’ in the subject line. Emails sent from non-York accounts will be ignored. Please sign your emails; I will not reply to anonymous messages. My response to your email may be brief and may not come within 48 hours. **Please be patient**.
-
-### Assignments
-The course will have three homework assignments, which should be submitted on the date it is due via the eClass submission module. The assignments are designed to allow you to become familiar with core concepts, problems, and research methods/approaches (i.e., Praat) that are critically important in speech science.
-
-### Quizzes
-There will be two quizzes over the course of the term. Quizzes will during the first 15 minutes of the class period. Be on time! Each quiz will cover material from the previous two weeks of class. **There will be no make-up quizzes**.
-
-## Tests
-There will be two tests in this course, one at Midterm and one Final Exam. The tests will be mostly multiple-choice with some possible short answer questions testing your knowledge of both book and lecture content. You are responsible for reading all assigned material (book chapters and additional readings) as well as anything that may be presented in lectures.
-
-### Missed Midterm
-If you provide appropriate documentation for missing the midterm you will have until the following Tuesday to take a make-up. Please coordinate the make-up with me. A midterm missed without adequate documentation will be assigned a mark of zero.
+Email me, but sometimes it may take a day for me to get back to you.
 
 ## Grading
-York University uses a grading system detailed [here](http://calendars.registrar.yorku.ca/2012-2013/academic/grades/). Please familiarize yourself with it. 
+York University uses a grading system detailed [here](http://calendars.registrar.yorku.ca/2012-2013/academic/grades/). Please familiarize yourself with it.
 
 ## Academic Honesty and Integrity
 York students are required to maintain high standards of academic integrity and are subject to the Senate Policy on Academic Honesty. Please review the documents available [here](https://www.yorku.ca/secretariat/policies/policies/academic-honesty-senate-policy-on/). Academic offences are treated very seriously, and the disciplinary procedures are described there as well. Please consult the code if you have any question about the nature of academic offences and their penalties.
-
-## Course Withdrawal (W) option
-In the period between the last day to drop a course without receiving a grade and the final day of classes in a term, undergraduate students are permitted to withdraw from a course with the condition that the course enrolment remains on a student’s transcript, denoted by a “W” in the University’s records and on the student’s transcript as the grade decision. No credit value will be retained for the course and no value will be included in the calculation of a student's grade point average (GPA). Please go [here](https://myacademicrecord.students.yorku.ca/course-withdrawal) for details.
 
 ## Schedule
 
