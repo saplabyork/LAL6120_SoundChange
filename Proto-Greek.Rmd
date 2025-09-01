@@ -1,0 +1,51 @@
+---
+title: "Proto-Greek"
+output: 
+  html_document:
+    includes:
+      in_header: "favicon.html"
+    theme: paper
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+<style type="text/css">
+  body{
+  font-size: 12pt;
+}
+</style>
+
+<style type="text/css">
+.title {
+  display: none;
+}
+
+#getting-started img {
+  margin-right: 10px;
+}
+
+</style>
+## Collaborative speech perception project
+
+We will embark on a project that takes what we're learning in the seminar and applies it to a problem in historical phonology. The project is collaborative, which in this context means that each of you will contribute equally to the research, design, and execution of a pilot research experiment. We will discuss various aspects of the design and execution of the project during every meeting, but it will be expected that students dedicate some lab time to working on various parts of the experiment. I will also be *very* involved in all aspects of the project and hopefully we'll have something presentable by the end of the term. The goal will be to have a poster presentation at a conference like the Acoustical Society of America or Laboratory Phonology.
+
+## The problem: Proto-Greek labiovelars
+
+It was hypothesized that an early stage of Greek had labiovelars and that they corresponded to either labial or coronal stops (**but never velars**), and we confirmed this because [Linear B](https://en.wikipedia.org/wiki/Linear_B) has a <q_> series: 𐀣 <qa> 𐀤 <qe> 𐀥 <qi> 𐀦 <qo> which is used for where we hypothesized \*kʷ, \*gʷ, \*gʷʰ.
+
+In [satem languages](https://en.wikipedia.org/wiki/Centum_and_satem_languages) these became velars across the board, but the following happens in Greek (I'll use kʷ as a stand-in for the three-way labial contrast): 
+
+(1)  kʷ > t / __ [-Back] (e.g., PIE \*penkʷe  'five' > Gk πέντε 'group of five')
+           > p / elsewhere (e.g., Myc. qo-u-ko-roi, Gk. βουκόλος 'cowherd')
+
+But [Sihler](readings/sihler_1995_selection.pdf) writes there is a lot of leveling in favor of the labials, and there may be some dialect effects too. 
+
+There are a few things slightly novel here: 
+
+a. that neither reflex is dorsal
+b. that -Back partitions the space into labial and coronal reflexes in the precise way it does
+c. that there's leveling towards the labial
+
+**The question for our class is whether we can simulate any of this in the lab.**
