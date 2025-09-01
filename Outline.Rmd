@@ -12,7 +12,9 @@ knitr::opts_chunk$set(echo = TRUE)
 options(repos = c(CRAN = "https://cloud.r-project.org/"))
 install.packages("devtools")
 devtools::install_github("haozhu233/kableExtra")
+install.packages("kableExtra")
 library(kableExtra)
+library(dplyr)
 ```
 
 <style type="text/css">
@@ -80,19 +82,11 @@ York students are required to maintain high standards of academic integrity and 
 
 ## Schedule
 
-```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
-install.packages("kableExtra")
-
+```{r echo=FALSE, message=FALSE, warning=FALSE}
 # For dev version
 schedule <- read.csv("schedule.csv")
-kable(schedule, escape=FALSE)
+kable(schedule, format="html", escape=FALSE) %>%
+  kable_styling()
 ```
 
 
-Week 1: Introduction, Meet and Greet, Assign reading presentations, Introduce collaborative project
-
-Week 2 (History): de Courtenay (1910), Sievers (1901), PROJECT-
-
-Week 3 (Modern theories): Ohala (1981), Lindblom (1990), Lindblom et al. (1995)
-
-Week 4 (Salience and contrast): Liljencrants and Lindblom (1972), Flemming (2005), Narayan (2008)
