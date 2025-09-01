@@ -9,6 +9,10 @@ output:
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
+options(repos = c(CRAN = "https://cloud.r-project.org/"))
+install.packages("devtools")
+devtools::install_github("haozhu233/kableExtra")
+library(kableExtra)
 ```
 
 <style type="text/css">
@@ -75,6 +79,15 @@ York University uses a grading system detailed [here](http://calendars.registrar
 York students are required to maintain high standards of academic integrity and are subject to the Senate Policy on Academic Honesty. Please review the documents available [here](https://www.yorku.ca/secretariat/policies/policies/academic-honesty-senate-policy-on/). Academic offences are treated very seriously, and the disciplinary procedures are described there as well. Please consult the code if you have any question about the nature of academic offences and their penalties.
 
 ## Schedule
+
+```{r echo=FALSE, message=FALSE, warning=FALSE, results='asis'}
+install.packages("kableExtra")
+
+# For dev version
+schedule <- read.csv("schedule.csv")
+kable(schedule)
+```
+
 
 Week 1: Introduction, Meet and Greet, Assign reading presentations, Introduce collaborative project
 
