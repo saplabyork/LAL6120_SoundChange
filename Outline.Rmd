@@ -85,7 +85,7 @@ install.packages("kableExtra")
 
 # For dev version
 schedule <- read.csv("schedule.csv")
-kable(schedule)
+kable(schedule, escape=FALSE)
 ```
 
 
