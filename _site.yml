@@ -6,8 +6,6 @@ navbar:
       href: index.html
     - text: "Outline/Schedule"
       href: Outline.html
-    - text: "Readings"
-      href: readings.html
     - text: "Collab project"
       href: Proto-Greek.html
 output_dir: "docs"
