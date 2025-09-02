@@ -63,6 +63,7 @@ This seminar is for first year graduate students in LAL. To that extent, the rea
 Your grade in the course will be determined by your performance on the following:
 
 * 50% in class participation (including presenting readings)
+  - Prepare outline handouts for readings with discussion questions
 * 50% contribution to collaborative class project
 
 ## Course text and readings
