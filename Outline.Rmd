@@ -39,7 +39,7 @@ library(dplyr)
 Instructor: [Chandan Narayan](https://ch-narayan.github.io)\
 Course time: Wednesdays 11:30-3:30pm, Ross S803\
 
-## Outline/Syllabus
+## Outline
 
 ***
 
@@ -68,10 +68,10 @@ Your grade in the course will be determined by your performance on the following
 ## Course text and readings
 The readings will be provided in pdf form under the [Readings](Readings.html) tab. In some cases we may have to read texts where there isn't an electronic copy available. Library links will be provided in those cases.
 
-### Class structure
-We will go over the week's papers and outline strategies for our [collaborative class project](Proto-Greek.html).
+## Class structure
+We will go over the week's papers. A student assigned to that particular week will present a detailed summary of the articles (in a handout) along with a few discussion questions for us. We'll also spend some time outlining strategies for our [collaborative class project](Proto-Greek.html). On some occasions we'll take field trips to the Phonetics Studio and the SAP Lab.
 
-### Email policy
+## Email policy
 Email me, but sometimes it may take a day for me to get back to you.
 
 ## Grading
