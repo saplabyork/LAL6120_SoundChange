@@ -82,11 +82,17 @@ York students are required to maintain high standards of academic integrity and 
 
 ## Schedule
 
-```{r echo=FALSE, message=FALSE, warning=FALSE}
-# For dev version
-schedule <- read.csv("schedule.csv")
-kable(schedule, format="html", escape=FALSE) %>%
-  kable_styling()
-```
-
-
+| **Week** | **Topic** | **Readings** | _Notes_ |
+|:---:|:---:|:---:|---|
+| 1 | Introduction, assignments, etc. | NONE |  |
+| 2 | _Lapis lingue, lapis auris_, and beyond | [de Courtenay (1910)](pdfs/decourtenay1972.pdf),<br>[Sievers (1901)](pdfs/sievers1901.pdf) | Discuss Sihler (1995) |
+| 3 | Modern approaches | [Ohala (1981)](pdfs/ohala1981.pdf),<br>[Lindblom (1990)](pdfs/lindblom1990.pdf) | Recording booth,<br>PRAAT,<br>Gorilla |
+| 4 | Modern approaches II | [Flemming (2005)](pdfs/flemming2005.pdf),<br>[Garrett & Johnson (2013)](pdfs/garrett2013.pdf) | Experimental design |
+| 5 | Sound patterns | [Narayan (2008)](pdfs/narayan2008.pdf),<br>[Liljencrants & Lindblom (1972)](pdfs/liljencrants1972.pdf),<br>[Lang & Ohala (1996)](pdfs/ohala1996.pdf) (for fun) |  |
+| 6 | Palatalization | [Guion (1998)](pdfs/guion1998.pdf),<br>[Chang et al. (2001)](pdfs/chang2001.pdf) |  |
+| 7 | Nasalization | [Beddor (2009)](pdfs/beddor2009.pdf) |  |
+| 8 | Tonogenesis | [Hombert, Ohala, Ewan (1979)](pdfs/hombert1979.pdf),<br>[Coetzee et al. (2018)](pdfs/coetzee2018.pdf) |  |
+| 9 | Metathesis | [Blevins & Garrett (1998)](pdfs/blevins1998.pdf) |  |
+| 10 | Socio and sound change | [Labov (1963)](pdfs/labov1963.pdf) **classic**<br>[Harrington et al. (2018)](pdfs/harrington2018.pdf) |  |
+| 11 | Lexicon and sound change | [Bybee (2000)](pdfs/bybee2000.pdf)<br>[Labov (2020)](pdfs/labov2020.pdf) |  |
+| 12 |  |  |  |
