@@ -46,7 +46,7 @@ Course time: Wednesdays 11:30-3:30pm, Ross S803\
 ## Seminar description:
 This graduate seminar will be a rigourous introduction to the topic of sound change. We will survey the intellectual history of formal approaches in the sound change literature. The course presupposes your having some background exposure to basic principles in phonetics (articulatory and acoustic) and phonology (nothing overly theoretical). We will focus on acoustics and speech perception explanations in sound change, but also consider sociological and extra-linguistic forces affecting change. While much of the sound change literature (especially pre-1960s) sought to describe the *what* of sound change, I want our focus to be on the *why* (and to some extent *how*) of sound change.
 
-Students will be required to present readings and lead discussion. Final projects will address some problem in sound change of interest to the student.
+Students will be required to present readings and lead discussion. Throughout the course we will be working on a [collaborative sound change project](Proto-Greek.html)
 
 ## Seminar prerequisites:
 This seminar is for first year graduate students in LAL. To that extent, the readings and discussion (and ultimately the work you produce) will reflect your background in Lingusitics, and phonetics and phonology in particular. I request that you contact me immediately if you do not have much background (i.e., intro courses in P&P), in which case we'll have some work to do outside of class. 
@@ -85,7 +85,7 @@ York students are required to maintain high standards of academic integrity and 
 | **Week** | **Topic** | **Readings** | _Notes_ |
 |:---:|:---:|:---:|---|
 | 1 | Introduction, assignments, etc. | NONE |  |
-| 2 | _Lapis lingue, lapis auris_, and beyond | [de Courtenay (1910)](pdfs/decourtenay1972.pdf),<br>[Sievers (1901)](pdfs/sievers1901.pdf) | Discuss Sihler (1995) |
+| 2 | _Lapis lingue, lapis auris_, and beyond | [de Courtenay (1910)](pdfs/decourtenay1972.pdf),<br>[Sievers (1901)](pdfs/sievers1901.pdf) | Discuss [Sihler (1995)](pdfs/sihler1995selection.pdf) |
 | 3 | Modern approaches | [Ohala (1981)](pdfs/ohala1981.pdf),<br>[Lindblom (1990)](pdfs/lindblom1990.pdf) | Recording booth,<br>PRAAT,<br>Gorilla |
 | 4 | Modern approaches II | [Flemming (2005)](pdfs/flemming2005.pdf),<br>[Garrett & Johnson (2013)](pdfs/garrett2013.pdf) | Experimental design |
 | 5 | Sound patterns | [Narayan (2008)](pdfs/narayan2008.pdf),<br>[Liljencrants & Lindblom (1972)](pdfs/liljencrants1972.pdf),<br>[Lang & Ohala (1996)](pdfs/ohala1996.pdf) (for fun) |  |
