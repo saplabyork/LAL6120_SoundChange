@@ -94,5 +94,5 @@ York students are required to maintain high standards of academic integrity and 
 | 8 | Tonogenesis | [Hombert, Ohala, Ewan (1979)](pdfs/hombert1979.pdf),<br>[Coetzee et al. (2018)](pdfs/coetzee2018.pdf) |  |
 | 9 | Metathesis | [Blevins & Garrett (1998)](pdfs/blevins1998.pdf) |  |
 | 10 | Socio and sound change | [Labov (1963)](pdfs/labov1963.pdf) **classic**,<br>[Harrington et al. (2018)](pdfs/harrington2018.pdf) |  |
-| 11 | Lexicon and sound change | [Bybee (2000)](pdfs/bybee2000.pdf),<br>[Labov (2020)](pdfs/labov2020.pdf) |  |
+| 11 | Lexicon and sound change | [Bybee (2000)](pdfs/bybee2000.pdf),<br>[Blevins & Wedel (2009)](pdfs/blevins2009.pdf) |  |
 | 12 |  |  |  |
