@@ -37,8 +37,7 @@ It was hypothesized that an early stage of Greek had labiovelars and that they c
 
 In [satem languages](https://en.wikipedia.org/wiki/Centum_and_satem_languages) these became velars across the board, but the following happens in Greek (I'll use kʷ as a stand-in for the three-way labial contrast): 
 
-(1)  kʷ > t / __ [-Back] (e.g., PIE \*penkʷe  'five' > Gk πέντε 'group of five')
-           > p / elsewhere (e.g., Myc. qo-u-ko-roi, Gk. βουκόλος 'cowherd')
+(1)   kʷ > t / __ [-Back] (e.g., PIE \*penkʷe  'five' > Gk πέντε 'group of five'<br>       kʷ > p / elsewhere (e.g., Myc. qo-u-ko-roi, Gk. βουκόλος 'cowherd')
 
 But [Sihler](readings/sihler_1995_selection.pdf) writes there is a lot of leveling in favor of the labials, and there may be some dialect effects too. 
 
