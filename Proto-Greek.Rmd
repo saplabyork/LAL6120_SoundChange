@@ -39,7 +39,7 @@ In [centum languages](https://en.wikipedia.org/wiki/Centum_and_satem_languages) 
 
 (1)   kʷ > t / __ [-Back] (e.g., PIE \*penkʷe  'five' > Gk πέντε 'group of five'<br>       kʷ > p / elsewhere (e.g., Myc. qo-u-ko-roi, Gk. βουκόλος 'cowherd')
 
-But [Sihler](readings/sihler_1995_selection.pdf) writes there is a lot of leveling in favor of the labials, and there may be some dialect effects too. 
+But [Sihler](pdfs/sihler1995selection.pdf) writes there is a lot of leveling in favor of the labials, and there may be some dialect effects too. 
 
 There are a few things slightly novel here: 
 
