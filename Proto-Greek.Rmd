@@ -35,7 +35,7 @@ We will embark on a project that takes what we're learning in the seminar and ap
 
 It was hypothesized that an early stage of Greek had labiovelars and that they corresponded to either labial or coronal stops (**but never velars**), and we confirmed this because [Linear B](https://en.wikipedia.org/wiki/Linear_B) has a <q_> series: 𐀣 <qa> 𐀤 <qe> 𐀥 <qi> 𐀦 <qo> which is used for where we hypothesized \*kʷ, \*gʷ, \*gʷʰ.
 
-In [satem languages](https://en.wikipedia.org/wiki/Centum_and_satem_languages) these became velars across the board, but the following happens in Greek (I'll use kʷ as a stand-in for the three-way labial contrast): 
+In [centum languages](https://en.wikipedia.org/wiki/Centum_and_satem_languages) these became velars across the board, but the following happens in Greek (I'll use kʷ as a stand-in for the three-way labial contrast): 
 
 (1)   kʷ > t / __ [-Back] (e.g., PIE \*penkʷe  'five' > Gk πέντε 'group of five'<br>       kʷ > p / elsewhere (e.g., Myc. qo-u-ko-roi, Gk. βουκόλος 'cowherd')
 
