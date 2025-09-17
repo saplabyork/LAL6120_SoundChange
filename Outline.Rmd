@@ -86,7 +86,7 @@ York students are required to maintain high standards of academic integrity and 
 |:---:|:---:|:---:|---|
 | 1 | Introduction, assignments, etc. | NONE |  |
 | 2 | _Lapis lingue, lapis auris_, and beyond | [de Courtenay (1910)](pdfs/decourtenay1972.pdf),<br>[Sievers (1901)](pdfs/sievers1901.pdf) | [Chandan's notes](pdfs/Week1_readings.pdf); Discuss [Sihler (1995)](pdfs/sihler1995selection.pdf) |
-| 3 | Modern approaches | [Ohala (1981)](pdfs/ohala1981.pdf),<br>[Lindblom (1990)](pdfs/lindblom1990.pdf) | Recording booth,<br>PRAAT|
+| 3 | Modern approaches | [Ohala (1981)](pdfs/ohala1981.pdf),<br>[Lindblom (1990)](pdfs/lindblom1990.pdf),<br> [Taylor's notes](pdfs/LING 6120 Handout_Potter.pdf)| Recording booth,<br>PRAAT|
 | 4 | Modern approaches II | [Blevins (2006)](pdfs/blevins2006b-SynopsisEvolutionaryPhonology.pdf),<br>[Garrett & Johnson (2013)](pdfs/garrett2013.pdf) | Experimental design |
 | 5 | Sound patterns | [Narayan (2008)](pdfs/narayan2008.pdf),<br>[Liljencrants & Lindblom (1972)](pdfs/liljencrants1972.pdf),<br>[Lang & Ohala (1996)](pdfs/ohala1996.pdf) (for fun) |  |
 | 6 | Palatalization | [Guion (1998)](pdfs/guion1998.pdf),<br>[Chang et al. (2001)](pdfs/chang2001.pdf) |  |
