@@ -57,12 +57,12 @@ Our goal is to induce an acoustic scenario for the listener such that the signal
 
 The Greek data show that kw- changes to *p* or *t* depending on the following vowel: kwi and kwe > ti and te; kwu and kwo > pu and po. So we need to record signal stimuli that encompass all of the appropriate vowel contexts. Do we do this using monosyllables or words (in English)? What are the advantages/disadvantages of both?
 
-### Recording the stimuli
+### Recording the stimuli (for 9/23)
 
 Once we've decided on the structure of the stimuli (monosyllables or words) we have to come up with a "speech materials" list for recording.
 
 - List of words (how many?)
-  - Write down all of the minimally different words in English with p/t/k/kw- (e.g. pick, tick, kick, quick) in various vowel contexts
+  - Write down all of the minimally different words in English with p/t/k/kʷ- (e.g. pick, tick, kick, quick) in various vowel contexts
 - If words we need to think about frequency. Let's talk about [SUBTLEX](https://shiny.psychology.nottingham.ac.uk/lpzwjv/SUBTLEX-UK/)
 - Record a list of words or words embedded in sentences of the form "Say the wor X again"; advantages/disadvantages
 
@@ -70,11 +70,13 @@ The approach we'll take is a "cross-linguistic" speech perception task. The idea
 
 This is likely the problem with the Beeley's dissertation (please skim [this](pdfs/Beeley_et_al_2016_The_Phonetics_of.pdf)) that attempted to do what we're trying here. There were no papers published from it (it's an Oxford phonetics dissertation!) likely because she didn't find an effect. I think the problem was in the design of her stimuli and experiment. I think aspiration gives the listener **a lot** of acoustic information in the aspiration noise as to the place of articulation the initial stop. People simply heard [k], even in noise.
 
-What we'll be doing is presenting listeners with [kw-] but in a language other than English. It looks like [Cantonese](https://en.wikipedia.org/wiki/Cantonese_phonology#Initial_consonants) has phonemic /kw-/ and /kwh-/, so potentially we can record a Cantonese speaker saying [kwi-], [kwu-], [kwa-], etc. But first we'll have to check to make sure they are photactically possible in Cantonese.
+What we'll be doing is presenting listeners with [kʷ-] but in a language other than English. It looks like [Cantonese](https://en.wikipedia.org/wiki/Cantonese_phonology#Initial_consonants) has phonemic /kʷ-/ and /khʷ-/, so potentially we can record a Cantonese speaker saying [kʷi-], [kʷu-], [kʷa-], etc. But first we'll have to check to make sure they are photactically possible in Cantonese.
 
 The task will ask listeners to guess what English word is being said having only heard the first syllable in noise. This means that you have to record not only **target** syllables, but also non-target syllables (i.e., p-, t-, k-).
 
 I recommend that the speaker record at least 5 "takes" of each syllable. If it is in Cantonese, what tone should be used? What about list intonation? Randomize the word list so that there is no repetition of the overall reading leading to "list intonation."
+
+EDIT: We should check with Laura, but everything I'm reading is that the phonotactics of Cantonese *do not* allow kʷ with front vowels! So there's no *kʷi for example. What do we do? Other languages with kʷ are Igbo (Nigeria), Hausa (Nigeria, Cameroon), Igala (Nigeria). Do we find a speaker of Cantonese (Laura) and have her say words that are phonotactically illegal in Cantonese, or do we find an Igbo speaker? 
 
 ## Housekeeping
 
@@ -85,6 +87,14 @@ We will use this [folder](https://drive.google.com/drive/folders/1NqkTmzsVbxEUuB
 - spreadsheet for stimuli acoustics
 - Drafts of writeup
 
-## Acoustics
+## Acoustics (for 9/30)
+
+- What are the acoustic landmarks for oral stops (voiceless)? This is a old and well known line of research (e.g., Liberman, et al.)
+- Measure the acoustic properties of the recorded stimuli
+  - VOT (s)
+  - F2 onset frequency (Hz)
+  - F0 local to the release (pitch pertubation)
+  - Properties of the burst (see [Narayan 2023](pdfs/narayan2023.pdf))
+
 
 
