@@ -6,12 +6,16 @@ output:
       in_header: "favicon.html"
     theme: paper
 ---
+
+```{=html}
 <style type="text/css">
   body{
   font-size: 12pt;
 }
 </style>
+```
 
+```{=html}
 <style type="text/css">
 .title {
   display: none;
@@ -22,18 +26,21 @@ output:
 }
 
 </style>
+```
 
-<div class="row" style="padding-top: 30px;">
-<div class="col-sm-6">
-
+::::: {.row style="padding-top: 30px;"}
+::: col-sm-6
 # **Phonetic and Phonological Analysis**
+
 ### *Sound Change*
+
 ### Fall 2025
+
 \
 Wednesdays, 11:30am\
 Ross Building, Rm. S803\
 Instructor: [Chandan Narayan](https://ch-narayan.github.io)\
-Contact: [chandann@yorku.ca](mailto:chandann@yorku.ca)\
+Contact: [chandann\@yorku.ca](mailto:chandann@yorku.ca)\
 [Outline](Outline.html)
 
 ### About
@@ -42,12 +49,10 @@ In this graduate seminar we will explore the nature of speech perception explana
 
 ### How to use this site
 
-This site will have links to all of the required readings and on occasion some lecture notes. 
+This site will have links to all of the required readings and on occasion some lecture notes.
+:::
 
-
-</div>
-<div class="col-sm-6">
-
-![](images/chain_shift.jpg)
-</a>
-</div>
+::: col-sm-6
+![](images/chain_shift.jpg) </a>
+:::
+:::::

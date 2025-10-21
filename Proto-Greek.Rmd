@@ -76,7 +76,9 @@ The task will ask listeners to guess what English word is being said having only
 
 I recommend that the speaker record at least 5 "takes" of each syllable. If it is in Cantonese, what tone should be used? What about list intonation? Randomize the word list so that there is no repetition of the overall reading leading to "list intonation."
 
-EDIT: We should check with Laura, but everything I'm reading is that the phonotactics of Cantonese *do not* allow kʷ with front vowels! So there's no *kʷi for example. What do we do? Other languages with kʷ are Igbo (Nigeria), Hausa (Nigeria, Cameroon), Igala (Nigeria). Do we find a speaker of Cantonese (Laura) and have her say words that are phonotactically illegal in Cantonese, or do we find an Igbo speaker? 
+EDIT: We should check with Laura, but everything I'm reading is that the phonotactics of Cantonese *do not* allow kʷ with front vowels! So there's no *kʷi for example. What do we do? Other languages with kʷ are Igbo (Nigeria), Hausa (Nigeria, Cameroon), Igala (Nigeria). Do we find a speaker of Cantonese (Laura) and have her say words that are phonotactically illegal in Cantonese, or do we find an Igbo speaker?
+
+EDIT: Igbo speaker produces [hw] for [kw].
 
 ## Housekeeping
 
@@ -97,4 +99,4 @@ We will use this [folder](https://drive.google.com/drive/folders/1NqkTmzsVbxEUuB
   - Properties of the burst (see [Narayan 2023](pdfs/narayan2023.pdf))
 
 
-
+# test 123
