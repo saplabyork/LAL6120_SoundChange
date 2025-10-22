@@ -99,4 +99,3 @@ We will use this [folder](https://drive.google.com/drive/folders/1NqkTmzsVbxEUuB
   - Properties of the burst (see [Narayan 2023](pdfs/narayan2023.pdf))
 
 
-# test 1234

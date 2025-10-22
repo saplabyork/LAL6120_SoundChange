@@ -90,7 +90,7 @@ York students are required to maintain high standards of academic integrity and 
 | 4 | Modern approaches II | [Blevins (2006)](pdfs/blevins2006b-SynopsisEvolutionaryPhonology.pdf),<br>[Garrett & Johnson (2013)](pdfs/garrett2013.pdf) | Experimental design |
 | 5 | Sound patterns | [Narayan (2008)](pdfs/narayan2008.pdf),<br>[Liljencrants & Lindblom (1972)](pdfs/liljencrants1972.pdf),<br>[Lang & Ohala (1996)](pdfs/ohala1996.pdf) (for fun) <br> [Daniella's notes](pdfs/Week 5 - Narayan (2007) & Liljencrants & Lindblom (1972).pdf) |  |
 | 6 | Palatalization | [Guion (1998)](pdfs/guion1998.pdf),<br>[Chang et al. (2001)](pdfs/chang2001.pdf) |  |
-| 7 | Nasalization | [Beddor (2009)](pdfs/beddor2009.pdf) |  |
+| 7 | Nasalization | [Beddor (2009)](pdfs/beddor2009.pdf) <br> [Laura's notes](pdfs/Laura's notes on Beddor.pdf) |  |
 | 8 | Tonogenesis | [Hombert, Ohala, Ewan (1979)](pdfs/hombert1979.pdf),<br>[Coetzee et al. (2018)](pdfs/coetzee2018.pdf) |  |
 | 9 | Metathesis | [Blevins & Garrett (1998)](pdfs/blevins1998.pdf) |  |
 | 10 | Socio and sound change | [Labov (1963)](pdfs/labov1963.pdf) **classic**,<br>[Harrington et al. (2018)](pdfs/harrington2018.pdf) |  |
