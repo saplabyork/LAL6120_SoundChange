@@ -100,7 +100,16 @@ We will use this [folder](https://drive.google.com/drive/folders/1NqkTmzsVbxEUuB
 
 ## The task 
 
-I had thought that doing an ID task would be best, but the more I think about it I'd rather we do a DISCRIMINATION task. This will allow us to do a [*d prime* analysis](pdfs/narayan2008.pdf). D prime will allow us to see how "close" in perceptual space two stimuli are based on "hits", "misses", "false-alarms", and "correct rejections". This is a neat animation:
+I had thought that doing an ID task would be best, but the more I think about it I'd rather we do a DISCRIMINATION task. This will allow us to do a [*d prime* analysis](pdfs/narayan2008.pdf). D prime will allow us to see how "close" in perceptual space two stimuli are based on "hits", "misses", "false-alarms", and "correct rejections". 
+
+- Hit: Correctly identifying a "different" pair as different
+- False Alarm: Incorrectly identifying a "same" pair as different
+- Miss: Incorrectly identifying a "different" pair as same
+- Correct Rejection: Correctly identifying a "same" pair as same
+
+d' = Z(Hit Rate) - Z(False Alarm Rate)
+
+This is a neat animation:
 
 ![](images/Scaling_discriminability_of_two_distributions.gif)
 
@@ -121,3 +130,6 @@ etc.
 - 5 vowels x 4 pairs (3 contrast, 1 identity) x 5 POAs x 2 orders = 200 trials 
 - 500ms Intertrial interval
 - if one trial takes 2s, then experiment will take around 7 mins (make it 10m)
+
+# D-prime
+
